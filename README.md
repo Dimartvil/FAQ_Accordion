@@ -5,7 +5,7 @@ V1.0.0 Solo desktop
 
 Más abajo se encuentra el README original donde conseguí el reto para que puedas realizarlos. 
 
-![Design preview for the FAQ Accordion Card coding challenge](./design/desktop-preview.jpg)
+![Design preview for the FAQ Accordion Card coding challenge](./documents/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
