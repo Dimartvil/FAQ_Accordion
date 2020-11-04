@@ -37,7 +37,7 @@ figure{
     box-shadow: 0px 23px 31px -4px rgba(0,0,0,0.5);
 }
 .FAQ_images{
-    background: url(../images/bg-pattern-desktop.svg) no-repeat ;
+    background: url(./img/bg-pattern-desktop.svg) no-repeat ;
     background-position-x: -575px;
     background-position-y: -300px; 
     width: 50%;
