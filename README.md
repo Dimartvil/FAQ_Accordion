@@ -1,4 +1,7 @@
-# Frontend Mentor - FAQ Accordion Card
+# Frontend Mentor - FAQ Accordion Card  - RETO 1  -
+
+En la carpeta src dejó lista mi versión del reto. 
+V1.0.0 Solo desktop
 
 ![Design preview for the FAQ Accordion Card coding challenge](./design/desktop-preview.jpg)
 
